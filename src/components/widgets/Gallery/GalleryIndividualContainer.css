@@ -1,0 +1,8 @@
+.gallery-individual-container{
+    width: 15%;
+    padding: 20px 15px;
+    background-color: rgb(13, 13, 13);
+    border-radius: 10px;
+    margin-left: 4%;
+    margin-bottom: 3%;
+}
